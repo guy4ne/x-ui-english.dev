@@ -1,5 +1,5 @@
-"username" = "Username"
-"password" = "Password"
+"username" = "کد ملی"
+"password" = "کلمه عبور"
 "login" = "LOGIN"
 "confirm" = "Confirm"
 "cancel" = "Cancel"
@@ -50,7 +50,7 @@
 "link" = "Other"
 
 [pages.login]
-"title" = "X-UI ENGLISH LOGIN"
+"title" = "سیستم حضور غیاب شاهد ورژن2"
 "loginAgain" = "The login session has expired, please log in again"
 
 [pages.login.toasts]
