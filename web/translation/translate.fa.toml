@@ -1,5 +1,5 @@
-"username" = "نام کاربری"
-"password" = "رمز عبور"
+"username" = "کل ملی"
+"password" = "کلمه عبور"
 "login" = "ورود"
 "confirm" = "تایید"
 "cancel" = "انصراف"
@@ -50,7 +50,7 @@
 "link" = "دیگر"
 
 [pages.login]
-"title" = "ورود به سیستم X-UI"
+"title" = "سامانه حضور غیاب شاهد"
 "loginAgain" = "مدت زمان استفاده به اتمام رسیده ، لطفا دوباره وارد شوید"
 
 [pages.login.toasts]
